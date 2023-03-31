@@ -3,7 +3,7 @@
 Tech stack:
   1. Python
   2. C
-  3.Kali linux
+  3. Kali linux
   
 Requirements:
   1. Kali linux(Virtual machine/system)
