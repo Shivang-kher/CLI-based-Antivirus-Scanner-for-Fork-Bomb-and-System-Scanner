@@ -16,10 +16,12 @@ Setup:
   2. Open terminal
   3. Run `python3 main.py` to run system scanner
   3. Open new terminal window
-  4. Run `gcc bomb.c` & './a.out' to start the fork bomb
+  4. Run `gcc bomb.c` & `./a.out` to start the fork bomb
   
 Result:
   System will warn the user about the memory being overloaded and all the logs will be saved in csv file
   
 Screenshots:
+![image](https://user-images.githubusercontent.com/69949038/229240840-0efe7a26-e17e-4535-b953-8630f44b81ab.png)
+
 
